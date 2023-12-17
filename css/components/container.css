@@ -1,0 +1,16 @@
+/* Banner Container */
+.banner {
+  background-image: url('https://miro.medium.com/v2/resize:fit:1100/format:webp/1*RIzNp-TiXtc4-OpvCiU8-w.jpeg');
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+  padding: 200px 0;
+}
+.container-banner {
+  margin: auto;
+  width: 900px;
+}
+.container-how {
+  width: 900px;
+  margin: auto;
+}

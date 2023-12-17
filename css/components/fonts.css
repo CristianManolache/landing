@@ -1,0 +1,41 @@
+/* Fonts */
+h1, h2, h3, h4 {
+  font-family: Poppins;
+}
+a {
+  text-decoration: none;
+}
+
+.banner h1 {
+  color: white;
+}
+.banner p {
+  color: white;
+  font-size: 20px;
+  opacity: 0.9;
+}
+.container-how h2 {
+  text-align: center;
+}
+.social-media-icons a {
+  font-size: 30px;
+  color: #1EDD88;
+  padding: 10px;
+}
+.social-media-icons a:hover {
+  font-size: 35px;
+  box-shadow: 5px 5px 5px 5px ghostwhite;
+  border-radius: 10px;
+  transition: 0.8s ease;
+  cursor: pointer;
+}
+.social-media-icons p {
+  padding: 15px;
+  color: ghostwhite;
+}
+.fa-heart-pulse {
+  color: red;
+}
+#fontchange {
+  font-family: "Font Awesome 6 Free";
+}
